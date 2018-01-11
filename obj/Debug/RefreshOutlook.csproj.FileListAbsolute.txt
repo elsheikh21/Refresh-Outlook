@@ -1,0 +1,6 @@
+c:\users\ahmede\documents\visual studio 2013\Projects\RefreshOutlook\RefreshOutlook\bin\Debug\RefreshOutlook.exe.config
+C:\Users\ahmede\documents\visual studio 2013\Projects\RefreshOutlook\RefreshOutlook\bin\Debug\RefreshOutlook.exe
+C:\Users\ahmede\documents\visual studio 2013\Projects\RefreshOutlook\RefreshOutlook\bin\Debug\RefreshOutlook.pdb
+C:\Users\ahmede\documents\visual studio 2013\Projects\RefreshOutlook\RefreshOutlook\obj\Debug\RefreshOutlook.csprojResolveAssemblyReference.cache
+C:\Users\ahmede\documents\visual studio 2013\Projects\RefreshOutlook\RefreshOutlook\obj\Debug\RefreshOutlook.exe
+C:\Users\ahmede\documents\visual studio 2013\Projects\RefreshOutlook\RefreshOutlook\obj\Debug\RefreshOutlook.pdb
